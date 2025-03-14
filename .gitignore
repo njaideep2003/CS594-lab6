@@ -3,3 +3,5 @@ lab8*/
 mlartifacts
 mlruns
 __pycache__
+
+.env
